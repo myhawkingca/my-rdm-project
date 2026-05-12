@@ -1,0 +1,4 @@
+# Automatically request reviews when paths are changed, this is for test
+/analysis/   @lindaxiang
+*.R              @lindaxiang 
+/docs/       @myhawkingca
