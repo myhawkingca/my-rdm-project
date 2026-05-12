@@ -8,5 +8,4 @@ Here is the agenda:
 
 Status: in progress.
 Update Status: in progress
-TODO: test
 second test: draft
